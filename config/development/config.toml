@@ -1,0 +1,3 @@
+[params]
+    environemnt = "dev"
+    baseURL = "localhost:2020"
