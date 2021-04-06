@@ -81,7 +81,7 @@
         }
     }
 
-    #get-mouseless-book, #get-sample {
+    #get-book, #get-sample {
         display: flex;
         flex-direction: row;
         justify-content: center;
@@ -117,15 +117,15 @@
 
     .subscription {
         form {
-            margin: 2em;
             input {
                 padding: 0.75em;
             }
             #bd-email {
                 border-radius: 0;
                 border: 3px solid $light-border-color;
-                @media #{$media-size-phone} {
+                @media #{$media-size-tablet} {
                     margin-bottom: 1em;
+                    width: 70%;
                 }
             }
             #subscribe {
@@ -165,9 +165,13 @@
                 box-shadow: none;
             }
         }
+        ul {
+            list-style-type: none;
+        }
         @media #{$media-size-phone} {
-            p {
-                display: none;
+            margin: 2rem 1rem;
+            div {
+                margin-left: 0;
             }
         }
     }
@@ -257,6 +261,9 @@
         @media #{$media-size-tablet} {
             font-size: 1em;
             width: 75%;
+        }
+        @media #{$media-size-phone} {
+            width: 100%;
         }
 
         &:before {

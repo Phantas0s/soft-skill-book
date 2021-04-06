@@ -1,4 +1,4 @@
-baseurl      = "https://matthieucneude.com/soft-skills/"
+baseurl      = "https://thesoftskills.dev"
 title        = "Soft Skills for Developers"
 languageCode = "en-us"
 theme        = "friend-ng"
