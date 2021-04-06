@@ -1,6 +1,5 @@
-# Building Your Mouseless Development Environment
-
-This is the landing page for my book, [Building your Mouseless Development Environment](https://themouseless.dev/).
+# Soft Skills for Developers
+This is the landing page for my book, Soft Skills for Developers.
 
 
 ## Licence
