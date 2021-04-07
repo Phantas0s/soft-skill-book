@@ -33,7 +33,7 @@ paginate     = 10
 
 [languages]
   [languages.en]
-    title = "Do You Want to Fail in Your Work?"
+    title = "Do You Want to Fail at Work?"
     keywords = ""
     disableKind= ["RSS"]
 
