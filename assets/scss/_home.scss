@@ -91,7 +91,7 @@
         }
 
         b {
-            color: $blue;
+            color: $green;
         }
 
         p {
@@ -101,13 +101,13 @@
         button {
             padding: 1em 1.5em;
             border-radius: 0;
-            border: 3px solid darken($blue, 10%);
-            background-color: $blue;
+            border: 3px solid darken($green, 10%);
+            background-color: $green;
             cursor: pointer;
             margin: 0 auto;
         } 
         button:hover {
-            background: darken($blue, 10%);
+            background: darken($green, 10%);
         }
     }
 
@@ -129,9 +129,9 @@
                 }
             }
             #subscribe {
-                border: 3px solid $blue;
+                border: 3px solid $green;
                 color: $white;
-                background-color: $blue;
+                background-color: $green;
                 cursor: pointer;
             }
         }
@@ -227,7 +227,7 @@
         label[for^="element-toggle-"] {
             cursor: pointer;
             display: inline;
-            color: $blue;
+            color: $green;
         }
         .element-toggle {
             display: none;
