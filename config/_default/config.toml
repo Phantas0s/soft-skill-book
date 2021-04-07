@@ -22,7 +22,7 @@ paginate     = 10
   # Metadata mostly used in document's head
   description = "Soft Skills for Developers"
   keywords = "soft skills, developer, communication, software development, listening, cognitive bias"
-  images = ["images/book_cover_mouseless_2_300.jpg"]
+  images = ["images/index/small_cover.jpg"]
 
   # Default theme "light" or "dark"
   defaultTheme = "light"
