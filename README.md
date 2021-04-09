@@ -1,5 +1,6 @@
 # Soft Skills for Developers
-This is the landing page for my book, Soft Skills for Developers.
+
+This is the landing page for my book, [Soft Skills for Developers](https://thesoftskills.dev).
 
 
 ## Licence
